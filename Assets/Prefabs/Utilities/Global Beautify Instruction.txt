@@ -1,0 +1,7 @@
+Usages:
+	+ Depth of field
+	+ Sun flare
+	+ Global outline
+	+ Night vision
+	+ Sharpen
+	+ Vignette (border)
